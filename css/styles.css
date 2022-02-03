@@ -273,8 +273,9 @@ a.button {
         display: none;
     }
 
-    #home {
+    #home,#experience .page-container{ 
         grid-template-columns: 1fr;
+
     }
 
 }
